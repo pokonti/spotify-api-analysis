@@ -18,6 +18,10 @@ This project is a Spotify data analysis tool built with Python and Streamlit, us
 
 * 🏆 Top Charts Analysis: Displays popular songs from global charts.
 
+<img width="1710" alt="Screenshot 2025-03-02 at 09 33 35" src="https://github.com/user-attachments/assets/2b63e0aa-9c36-4dac-8d07-f80ef1354e53" />
+<img width="1710" alt="Screenshot 2025-03-02 at 09 33 39" src="https://github.com/user-attachments/assets/3041c347-2fdb-4ece-8d31-d2b855916508" />
+<img width="1710" alt="Screenshot 2025-03-02 at 09 23 15" src="https://github.com/user-attachments/assets/3725d4f3-66e2-44ed-8dc6-b99114af7074" />
+
 ## Installation
 
 ### Prerequisites
